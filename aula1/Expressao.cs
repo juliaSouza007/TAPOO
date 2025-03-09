@@ -29,7 +29,7 @@ public class Numero : Expressao
     public override Expressao Simplificar() => this;
 }
 
-// numero complexoS
+// numero complexo
 public class NumeroComplexo : Expressao
 {
     public Complex valor;
