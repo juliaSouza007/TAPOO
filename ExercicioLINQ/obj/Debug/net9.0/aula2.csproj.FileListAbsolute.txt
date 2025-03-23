@@ -1,0 +1,17 @@
+/Users/lucasvra/Downloads/aula 2/aula2/bin/Debug/net9.0/aula2
+/Users/lucasvra/Downloads/aula 2/aula2/bin/Debug/net9.0/aula2.deps.json
+/Users/lucasvra/Downloads/aula 2/aula2/bin/Debug/net9.0/aula2.runtimeconfig.json
+/Users/lucasvra/Downloads/aula 2/aula2/bin/Debug/net9.0/aula2.dll
+/Users/lucasvra/Downloads/aula 2/aula2/bin/Debug/net9.0/aula2.pdb
+/Users/lucasvra/Downloads/aula 2/aula2/obj/Debug/net9.0/aula2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasvra/Downloads/aula 2/aula2/obj/Debug/net9.0/aula2.AssemblyInfoInputs.cache
+/Users/lucasvra/Downloads/aula 2/aula2/obj/Debug/net9.0/aula2.AssemblyInfo.cs
+/Users/lucasvra/Downloads/aula 2/aula2/obj/Debug/net9.0/aula2.csproj.CoreCompileInputs.cache
+/Users/lucasvra/Downloads/aula 2/aula2/obj/Debug/net9.0/aula2.dll
+/Users/lucasvra/Downloads/aula 2/aula2/obj/Debug/net9.0/refint/aula2.dll
+/Users/lucasvra/Downloads/aula 2/aula2/obj/Debug/net9.0/aula2.pdb
+/Users/lucasvra/Downloads/aula 2/aula2/obj/Debug/net9.0/aula2.genruntimeconfig.cache
+/Users/lucasvra/Downloads/aula 2/aula2/obj/Debug/net9.0/ref/aula2.dll
+/Users/lucasvra/Downloads/aula 2/aula2/bin/Debug/net9.0/ConsoleDump.dll
+/Users/lucasvra/Downloads/aula 2/aula2/obj/Debug/net9.0/aula2.csproj.AssemblyReference.cache
+/Users/lucasvra/Downloads/aula 2/aula2/obj/Debug/net9.0/aula2.csproj.Up2Date

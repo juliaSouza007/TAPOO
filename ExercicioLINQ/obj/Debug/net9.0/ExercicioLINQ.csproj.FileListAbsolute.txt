@@ -1,0 +1,34 @@
+/Users/lucasvra/Downloads/aula 2/ExercicioLINQ/bin/Debug/net9.0/ExercicioLINQ
+/Users/lucasvra/Downloads/aula 2/ExercicioLINQ/bin/Debug/net9.0/ExercicioLINQ.deps.json
+/Users/lucasvra/Downloads/aula 2/ExercicioLINQ/bin/Debug/net9.0/ExercicioLINQ.runtimeconfig.json
+/Users/lucasvra/Downloads/aula 2/ExercicioLINQ/bin/Debug/net9.0/ExercicioLINQ.dll
+/Users/lucasvra/Downloads/aula 2/ExercicioLINQ/bin/Debug/net9.0/ExercicioLINQ.pdb
+/Users/lucasvra/Downloads/aula 2/ExercicioLINQ/bin/Debug/net9.0/ConsoleDump.dll
+/Users/lucasvra/Downloads/aula 2/ExercicioLINQ/obj/Debug/net9.0/ExercicioLINQ.csproj.AssemblyReference.cache
+/Users/lucasvra/Downloads/aula 2/ExercicioLINQ/obj/Debug/net9.0/ExercicioLINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasvra/Downloads/aula 2/ExercicioLINQ/obj/Debug/net9.0/ExercicioLINQ.AssemblyInfoInputs.cache
+/Users/lucasvra/Downloads/aula 2/ExercicioLINQ/obj/Debug/net9.0/ExercicioLINQ.AssemblyInfo.cs
+/Users/lucasvra/Downloads/aula 2/ExercicioLINQ/obj/Debug/net9.0/ExercicioLINQ.csproj.CoreCompileInputs.cache
+/Users/lucasvra/Downloads/aula 2/ExercicioLINQ/obj/Debug/net9.0/Exercici.2F3C7B1A.Up2Date
+/Users/lucasvra/Downloads/aula 2/ExercicioLINQ/obj/Debug/net9.0/ExercicioLINQ.dll
+/Users/lucasvra/Downloads/aula 2/ExercicioLINQ/obj/Debug/net9.0/refint/ExercicioLINQ.dll
+/Users/lucasvra/Downloads/aula 2/ExercicioLINQ/obj/Debug/net9.0/ExercicioLINQ.pdb
+/Users/lucasvra/Downloads/aula 2/ExercicioLINQ/obj/Debug/net9.0/ExercicioLINQ.genruntimeconfig.cache
+/Users/lucasvra/Downloads/aula 2/ExercicioLINQ/obj/Debug/net9.0/ref/ExercicioLINQ.dll
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\exerciciolinq\bin\Debug\net9.0\ExercicioLINQ.exe
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\exerciciolinq\bin\Debug\net9.0\ExercicioLINQ.deps.json
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\exerciciolinq\bin\Debug\net9.0\ExercicioLINQ.runtimeconfig.json
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\exerciciolinq\bin\Debug\net9.0\ExercicioLINQ.dll
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\exerciciolinq\bin\Debug\net9.0\ExercicioLINQ.pdb
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\exerciciolinq\bin\Debug\net9.0\ConsoleDump.dll
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\exerciciolinq\obj\Debug\net9.0\ExercicioLINQ.csproj.AssemblyReference.cache
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\exerciciolinq\obj\Debug\net9.0\ExercicioLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\exerciciolinq\obj\Debug\net9.0\ExercicioLINQ.AssemblyInfoInputs.cache
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\exerciciolinq\obj\Debug\net9.0\ExercicioLINQ.AssemblyInfo.cs
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\exerciciolinq\obj\Debug\net9.0\ExercicioLINQ.csproj.CoreCompileInputs.cache
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\exerciciolinq\obj\Debug\net9.0\Exercici.2F3C7B1A.Up2Date
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\exerciciolinq\obj\Debug\net9.0\ExercicioLINQ.dll
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\exerciciolinq\obj\Debug\net9.0\refint\ExercicioLINQ.dll
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\exerciciolinq\obj\Debug\net9.0\ExercicioLINQ.pdb
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\exerciciolinq\obj\Debug\net9.0\ExercicioLINQ.genruntimeconfig.cache
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\exerciciolinq\obj\Debug\net9.0\ref\ExercicioLINQ.dll
