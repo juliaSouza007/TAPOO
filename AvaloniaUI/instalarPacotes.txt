@@ -1,0 +1,6 @@
+dotnet add package Avalonia
+dotnet add package Avalonia.Desktop
+dotnet add package Avalonia.Controls
+dotnet add package Avalonia.Markup.Xaml
+dotnet add package Avalonia.Themes.Fluent
+dotnet restore
