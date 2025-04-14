@@ -1,0 +1,14 @@
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\JantarDosFilosofos\bin\Debug\net9.0\JantarDosFilosofos.exe
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\JantarDosFilosofos\bin\Debug\net9.0\JantarDosFilosofos.deps.json
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\JantarDosFilosofos\bin\Debug\net9.0\JantarDosFilosofos.runtimeconfig.json
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\JantarDosFilosofos\bin\Debug\net9.0\JantarDosFilosofos.dll
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\JantarDosFilosofos\bin\Debug\net9.0\JantarDosFilosofos.pdb
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\JantarDosFilosofos\obj\Debug\net9.0\JantarDosFilosofos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\JantarDosFilosofos\obj\Debug\net9.0\JantarDosFilosofos.AssemblyInfoInputs.cache
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\JantarDosFilosofos\obj\Debug\net9.0\JantarDosFilosofos.AssemblyInfo.cs
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\JantarDosFilosofos\obj\Debug\net9.0\JantarDosFilosofos.csproj.CoreCompileInputs.cache
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\JantarDosFilosofos\obj\Debug\net9.0\JantarDosFilosofos.dll
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\JantarDosFilosofos\obj\Debug\net9.0\refint\JantarDosFilosofos.dll
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\JantarDosFilosofos\obj\Debug\net9.0\JantarDosFilosofos.pdb
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\JantarDosFilosofos\obj\Debug\net9.0\JantarDosFilosofos.genruntimeconfig.cache
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\JantarDosFilosofos\obj\Debug\net9.0\ref\JantarDosFilosofos.dll
