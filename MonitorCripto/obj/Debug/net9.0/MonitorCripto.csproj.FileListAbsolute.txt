@@ -1,0 +1,14 @@
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorCripto\bin\Debug\net9.0\MonitorCripto.exe
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorCripto\bin\Debug\net9.0\MonitorCripto.deps.json
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorCripto\bin\Debug\net9.0\MonitorCripto.runtimeconfig.json
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorCripto\bin\Debug\net9.0\MonitorCripto.dll
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorCripto\bin\Debug\net9.0\MonitorCripto.pdb
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorCripto\obj\Debug\net9.0\MonitorCripto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorCripto\obj\Debug\net9.0\MonitorCripto.AssemblyInfoInputs.cache
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorCripto\obj\Debug\net9.0\MonitorCripto.AssemblyInfo.cs
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorCripto\obj\Debug\net9.0\MonitorCripto.csproj.CoreCompileInputs.cache
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorCripto\obj\Debug\net9.0\MonitorCripto.dll
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorCripto\obj\Debug\net9.0\refint\MonitorCripto.dll
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorCripto\obj\Debug\net9.0\MonitorCripto.pdb
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorCripto\obj\Debug\net9.0\MonitorCripto.genruntimeconfig.cache
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorCripto\obj\Debug\net9.0\ref\MonitorCripto.dll
