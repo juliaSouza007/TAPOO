@@ -1,0 +1,14 @@
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorTemperatura\ClienteTemp\bin\Debug\net9.0\ClienteTemp.exe
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorTemperatura\ClienteTemp\bin\Debug\net9.0\ClienteTemp.deps.json
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorTemperatura\ClienteTemp\bin\Debug\net9.0\ClienteTemp.runtimeconfig.json
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorTemperatura\ClienteTemp\bin\Debug\net9.0\ClienteTemp.dll
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorTemperatura\ClienteTemp\bin\Debug\net9.0\ClienteTemp.pdb
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorTemperatura\ClienteTemp\obj\Debug\net9.0\ClienteTemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorTemperatura\ClienteTemp\obj\Debug\net9.0\ClienteTemp.AssemblyInfoInputs.cache
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorTemperatura\ClienteTemp\obj\Debug\net9.0\ClienteTemp.AssemblyInfo.cs
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorTemperatura\ClienteTemp\obj\Debug\net9.0\ClienteTemp.csproj.CoreCompileInputs.cache
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorTemperatura\ClienteTemp\obj\Debug\net9.0\ClienteTemp.dll
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorTemperatura\ClienteTemp\obj\Debug\net9.0\refint\ClienteTemp.dll
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorTemperatura\ClienteTemp\obj\Debug\net9.0\ClienteTemp.pdb
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorTemperatura\ClienteTemp\obj\Debug\net9.0\ClienteTemp.genruntimeconfig.cache
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\MonitorTemperatura\ClienteTemp\obj\Debug\net9.0\ref\ClienteTemp.dll
