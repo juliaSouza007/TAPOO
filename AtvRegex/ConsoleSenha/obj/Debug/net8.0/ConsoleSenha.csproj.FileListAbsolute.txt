@@ -1,0 +1,14 @@
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsoleSenha/bin/Debug/net8.0/ConsoleSenha
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsoleSenha/bin/Debug/net8.0/ConsoleSenha.deps.json
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsoleSenha/bin/Debug/net8.0/ConsoleSenha.runtimeconfig.json
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsoleSenha/bin/Debug/net8.0/ConsoleSenha.dll
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsoleSenha/bin/Debug/net8.0/ConsoleSenha.pdb
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsoleSenha/obj/Debug/net8.0/ConsoleSenha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsoleSenha/obj/Debug/net8.0/ConsoleSenha.AssemblyInfoInputs.cache
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsoleSenha/obj/Debug/net8.0/ConsoleSenha.AssemblyInfo.cs
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsoleSenha/obj/Debug/net8.0/ConsoleSenha.csproj.CoreCompileInputs.cache
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsoleSenha/obj/Debug/net8.0/ConsoleSenha.dll
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsoleSenha/obj/Debug/net8.0/refint/ConsoleSenha.dll
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsoleSenha/obj/Debug/net8.0/ConsoleSenha.pdb
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsoleSenha/obj/Debug/net8.0/ConsoleSenha.genruntimeconfig.cache
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsoleSenha/obj/Debug/net8.0/ref/ConsoleSenha.dll

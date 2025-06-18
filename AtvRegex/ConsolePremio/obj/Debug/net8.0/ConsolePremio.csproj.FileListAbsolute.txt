@@ -1,0 +1,14 @@
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsolePremio/bin/Debug/net8.0/ConsolePremio
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsolePremio/bin/Debug/net8.0/ConsolePremio.deps.json
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsolePremio/bin/Debug/net8.0/ConsolePremio.runtimeconfig.json
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsolePremio/bin/Debug/net8.0/ConsolePremio.dll
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsolePremio/bin/Debug/net8.0/ConsolePremio.pdb
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsolePremio/obj/Debug/net8.0/ConsolePremio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsolePremio/obj/Debug/net8.0/ConsolePremio.AssemblyInfoInputs.cache
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsolePremio/obj/Debug/net8.0/ConsolePremio.AssemblyInfo.cs
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsolePremio/obj/Debug/net8.0/ConsolePremio.csproj.CoreCompileInputs.cache
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsolePremio/obj/Debug/net8.0/ConsolePremio.dll
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsolePremio/obj/Debug/net8.0/refint/ConsolePremio.dll
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsolePremio/obj/Debug/net8.0/ConsolePremio.pdb
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsolePremio/obj/Debug/net8.0/ConsolePremio.genruntimeconfig.cache
+/Users/estagio/Downloads/TAPOO/AtvRegex/ConsolePremio/obj/Debug/net8.0/ref/ConsolePremio.dll
