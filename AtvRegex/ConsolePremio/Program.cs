@@ -1,35 +1,31 @@
-﻿using System;
+using System;
 using System.IO;
-using System.Text.Json;
-using System.Text.Json.Nodes;
+using System.Text.RegularExpressions;
 
 class Program
 {
     static void Main()
     {
-        string json = File.ReadAllText("prize.json"); 
-        JsonNode root = JsonNode.Parse(json);
+        string json = File.ReadAllText("prize.json");
 
-        foreach (JsonNode prize in root["prizes"].AsArray())
+        string pattern = @"""category""\s*:\s*""economics""[\s\S]*?""firstname""\s*:\s*""([^""]+)""";
+        Match match = Regex.Match(json, pattern);
+
+        Console.WriteLine("\n-------------------------");
+        Console.WriteLine("Lendo o arquivo JSON...");
+        Console.WriteLine("-------------------------\n");
+
+        if (match.Success)
         {
-            if (prize["category"]?.ToString() == "economics")
-            {
-                var laureates = prize["laureates"].AsArray();
-                if (laureates.Count > 0)
-                {
-                    string firstname = laureates[0]["firstname"]?.ToString();
-
-                    Console.WriteLine("-------------------------");
-                    Console.WriteLine("Lendo o arquivo JSON...");
-                    Console.WriteLine("-------------------------\n");
-
-                    Console.WriteLine($"Categoria: {prize["category"]}");
-                    Console.ForegroundColor = ConsoleColor.Green;
-                    Console.WriteLine($"Primeiro ganhador de economia: {firstname}");
-                    Console.ResetColor();
-                    break;
-                }
-            }
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine($"Primeiro ganhador de economia: {match.Groups[1].Value}");
+            Console.ResetColor();
+        }
+        else
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("Nenhum ganhador de economia encontrado.");
+            Console.ResetColor();
         }
     }
 }
