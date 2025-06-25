@@ -1,0 +1,14 @@
+/home/a2023952624/Área de Trabalho/TAPOO/ImageBatchProcessor/bin/Debug/net8.0/ImageBatchProcessor
+/home/a2023952624/Área de Trabalho/TAPOO/ImageBatchProcessor/bin/Debug/net8.0/ImageBatchProcessor.deps.json
+/home/a2023952624/Área de Trabalho/TAPOO/ImageBatchProcessor/bin/Debug/net8.0/ImageBatchProcessor.runtimeconfig.json
+/home/a2023952624/Área de Trabalho/TAPOO/ImageBatchProcessor/bin/Debug/net8.0/ImageBatchProcessor.dll
+/home/a2023952624/Área de Trabalho/TAPOO/ImageBatchProcessor/bin/Debug/net8.0/ImageBatchProcessor.pdb
+/home/a2023952624/Área de Trabalho/TAPOO/ImageBatchProcessor/obj/Debug/net8.0/ImageBatchProcessor.GeneratedMSBuildEditorConfig.editorconfig
+/home/a2023952624/Área de Trabalho/TAPOO/ImageBatchProcessor/obj/Debug/net8.0/ImageBatchProcessor.AssemblyInfoInputs.cache
+/home/a2023952624/Área de Trabalho/TAPOO/ImageBatchProcessor/obj/Debug/net8.0/ImageBatchProcessor.AssemblyInfo.cs
+/home/a2023952624/Área de Trabalho/TAPOO/ImageBatchProcessor/obj/Debug/net8.0/ImageBatchProcessor.csproj.CoreCompileInputs.cache
+/home/a2023952624/Área de Trabalho/TAPOO/ImageBatchProcessor/obj/Debug/net8.0/ImageBatchProcessor.dll
+/home/a2023952624/Área de Trabalho/TAPOO/ImageBatchProcessor/obj/Debug/net8.0/refint/ImageBatchProcessor.dll
+/home/a2023952624/Área de Trabalho/TAPOO/ImageBatchProcessor/obj/Debug/net8.0/ImageBatchProcessor.pdb
+/home/a2023952624/Área de Trabalho/TAPOO/ImageBatchProcessor/obj/Debug/net8.0/ImageBatchProcessor.genruntimeconfig.cache
+/home/a2023952624/Área de Trabalho/TAPOO/ImageBatchProcessor/obj/Debug/net8.0/ref/ImageBatchProcessor.dll
