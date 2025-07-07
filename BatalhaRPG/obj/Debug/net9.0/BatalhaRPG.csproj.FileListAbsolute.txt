@@ -1,0 +1,14 @@
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\BatalhaRPG\bin\Debug\net9.0\BatalhaRPG.exe
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\BatalhaRPG\bin\Debug\net9.0\BatalhaRPG.deps.json
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\BatalhaRPG\bin\Debug\net9.0\BatalhaRPG.runtimeconfig.json
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\BatalhaRPG\bin\Debug\net9.0\BatalhaRPG.dll
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\BatalhaRPG\bin\Debug\net9.0\BatalhaRPG.pdb
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\BatalhaRPG\obj\Debug\net9.0\BatalhaRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\BatalhaRPG\obj\Debug\net9.0\BatalhaRPG.AssemblyInfoInputs.cache
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\BatalhaRPG\obj\Debug\net9.0\BatalhaRPG.AssemblyInfo.cs
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\BatalhaRPG\obj\Debug\net9.0\BatalhaRPG.csproj.CoreCompileInputs.cache
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\BatalhaRPG\obj\Debug\net9.0\BatalhaRPG.dll
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\BatalhaRPG\obj\Debug\net9.0\refint\BatalhaRPG.dll
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\BatalhaRPG\obj\Debug\net9.0\BatalhaRPG.pdb
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\BatalhaRPG\obj\Debug\net9.0\BatalhaRPG.genruntimeconfig.cache
+C:\Users\patem\OneDrive\Área de Trabalho\TAPOO\BatalhaRPG\obj\Debug\net9.0\ref\BatalhaRPG.dll
