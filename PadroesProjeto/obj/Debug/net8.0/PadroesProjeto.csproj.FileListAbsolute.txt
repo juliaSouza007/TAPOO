@@ -1,0 +1,14 @@
+/Users/estagio/Desktop/tapoo/PadroesProjeto/obj/Debug/net8.0/PadroesProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/estagio/Desktop/tapoo/PadroesProjeto/obj/Debug/net8.0/PadroesProjeto.AssemblyInfoInputs.cache
+/Users/estagio/Desktop/tapoo/PadroesProjeto/obj/Debug/net8.0/PadroesProjeto.AssemblyInfo.cs
+/Users/estagio/Desktop/tapoo/PadroesProjeto/obj/Debug/net8.0/PadroesProjeto.csproj.CoreCompileInputs.cache
+/Users/estagio/Desktop/tapoo/PadroesProjeto/bin/Debug/net8.0/PadroesProjeto
+/Users/estagio/Desktop/tapoo/PadroesProjeto/bin/Debug/net8.0/PadroesProjeto.deps.json
+/Users/estagio/Desktop/tapoo/PadroesProjeto/bin/Debug/net8.0/PadroesProjeto.runtimeconfig.json
+/Users/estagio/Desktop/tapoo/PadroesProjeto/bin/Debug/net8.0/PadroesProjeto.dll
+/Users/estagio/Desktop/tapoo/PadroesProjeto/bin/Debug/net8.0/PadroesProjeto.pdb
+/Users/estagio/Desktop/tapoo/PadroesProjeto/obj/Debug/net8.0/PadroesProjeto.dll
+/Users/estagio/Desktop/tapoo/PadroesProjeto/obj/Debug/net8.0/refint/PadroesProjeto.dll
+/Users/estagio/Desktop/tapoo/PadroesProjeto/obj/Debug/net8.0/PadroesProjeto.pdb
+/Users/estagio/Desktop/tapoo/PadroesProjeto/obj/Debug/net8.0/PadroesProjeto.genruntimeconfig.cache
+/Users/estagio/Desktop/tapoo/PadroesProjeto/obj/Debug/net8.0/ref/PadroesProjeto.dll
