@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/estagio/Desktop/tapoo/MonoGameSpriteTutorial/MeuJogo/Content/Idle.png","/Users/estagio/Desktop/tapoo/MonoGameSpriteTutorial/MeuJogo/Content/bin/Content/Idle.xnb","TextureProcessor","Texture2DContent",1930,49237,0.478043
+"/Users/estagio/Desktop/tapoo/MonoGameSpriteTutorial/MeuJogo/Content/Walk.png","/Users/estagio/Desktop/tapoo/MonoGameSpriteTutorial/MeuJogo/Content/bin/Content/Walk.xnb","TextureProcessor","Texture2DContent",2629,73813,0.003295
